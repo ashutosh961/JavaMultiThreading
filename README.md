@@ -4,11 +4,11 @@ https://docs.google.com/document/d/1i-aQiEwYpFvLMD_ypTPdwfdViA9YsJ0WB1vsPRwJQ5s/
 
 <h3><b>What is a thread ?</b></h3>
 
-A thread is a lightweight process. It is different path of execution of the same program. It can be used to run multiple tasks of a same program in parallel.
+*   A thread is a lightweight process. It is different path of execution of the same program. It can be used to run multiple tasks of a same program in parallel.
 
 <h3><b>How do you create threads in Java ? </b></h3>
 
-You can create threads in Java either by extending the Thread class or by implementing a runnable interface. As you can only extend a class once, the runnable interface implementation is the preferred method.
+*   You can create threads in Java either by extending the Thread class or by implementing a runnable interface. As you can only extend a class once, the runnable interface implementation is the preferred method.
 
 <h3><b>How do you create a thread with a Runnable interface ? </b></h3>
 
