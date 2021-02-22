@@ -2,7 +2,7 @@ Java Multithreading
 
 https://docs.google.com/document/d/1i-aQiEwYpFvLMD_ypTPdwfdViA9YsJ0WB1vsPRwJQ5s/edit
 
-<b>What is a thread ? </b>
+<b><h3>What is a thread ?<h3></b>
 
 A thread is a lightweight process. It is different path of execution of the same program. It can be used to run multiple tasks of a same program in parallel.
 
