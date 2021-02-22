@@ -76,7 +76,7 @@ You can create threads in Java either by extending the Thread class or by implem
 
 When multiple threads try to access a shared resource, then that resource or the section of code is called the critical section.
 
-What are the common problems with multi-threading while trying to access a shared resource ?
+<h3><b>What are the common problems with multi-threading while trying to access a shared resource ?</b></h3>
 
 RaceCondition DeadLock Starvation LiveLock
 
